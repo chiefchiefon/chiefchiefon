@@ -2,7 +2,7 @@
 #### I am a software developer and an android developer
 ![I am a software developer and an android developer](https://drive.google.com/file/d/15Gq_eA-z4pygrsu1kiyekYGlne30qEPE/view?usp=sharing)
 
-I enjoy deploying android apps and also deploying machine learning methodologies on text mining and image recognition am a learning enthusiast and would like to participate in such projects.
+
 
 Skills: Python | Kotlin | Java
 
