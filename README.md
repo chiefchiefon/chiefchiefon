@@ -7,7 +7,6 @@ I am a learning enthusiast and would like to participate in such projects.
 Skills: Python | Kotlin | Java
 
 - 🔭 I’m currently working on medical emergency alert system 
-- 📫 How to reach me: shaul.chamoula@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chiefchiefon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaul-chamoula//)  
