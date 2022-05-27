@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Shaul
 #### I am a software developer and an android developer
-I enjoy deploying android apps and also deploying machine learning methodologies on text mining and image recognition am a learning enthusiast and would like to participate in such projects.
+
+I enjoy deploying android apps and also deploying machine learning methodologies on text mining and image recognition.
+I am a learning enthusiast and would like to participate in such projects.
+
 Skills: Python | Kotlin | Java
 
 - 🔭 I’m currently working on medical emergency alert system 
